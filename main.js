@@ -143,13 +143,13 @@ UI_ChannelCache = 1;		// caching script emotes, additional media database and de
 
 	/* -- single variables -- */
 
-Favicon_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+Favicon_URL = 'https://discuss.moe/uploads/default/original/2X/d/d8807e41e02ee0d680505eff3c3e8fe20c778aab.png';
 
-MiniLogo_URL = 'https://dl.dropboxusercontent.com/s/xgefazzyhs8xncp/icon.png';
+MiniLogo_URL = 'https://discuss.moe/uploads/default/original/2X/d/d8807e41e02ee0d680505eff3c3e8fe20c778aab.png';
 
-ChannelName_Caption = 'CyTube Plus';
+ChannelName_Caption = 'Discuss.Moe Simulcasts';
 
-HeaderDropMenu_Title = 'Synch';
+HeaderDropMenu_Title = 'RIP';
 
 MOTDAutoLogo_Mode = 1;
 
@@ -193,11 +193,11 @@ HeaderDropMenu_Array = [
 ['Source code', 'https://github.com/calzoneman/sync'],
 ['FAQ', 'https://github.com/calzoneman/sync/wiki/Beginner%27s-Guide-and-FAQ'],
 ['IRC', 'http://webchat.6irc.net/?channels=chat,synchtube'],
-['CyTube Plus', 'https://github.com/zimny-lech/CyTube-Plus'],
+['Discuss.Moe', 'https://discuss.moe'],
 ];
 
 MOTDAutoLogo_Array = [
-'https://dl.dropboxusercontent.com/s/7mrz85gl29eiiks/logo.png',
+'https://discuss.moe/uploads/default/original/2X/b/b4fbe44447b2b19311edada03ae9041c650cbabe.png',
 ];
 
 MOTDTabs_Array = [
